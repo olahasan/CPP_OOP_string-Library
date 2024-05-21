@@ -1,0 +1,8 @@
+﻿  oop_stringLibraryProject.cpp
+C:\Users\olaal\Desktop\oop1\oop_stringLibraryProject\oop_stringLibraryProject\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\olaal\Desktop\oop1\oop_stringLibraryProject\oop_stringLibraryProject\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\olaal\Desktop\oop1\oop_stringLibraryProject\oop_stringLibraryProject\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\olaal\Desktop\oop1\oop_stringLibraryProject\oop_stringLibraryProject\clsString.h(194,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\olaal\Desktop\oop1\oop_stringLibraryProject\oop_stringLibraryProject\clsString.h(325,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\olaal\Desktop\oop1\oop_stringLibraryProject\oop_stringLibraryProject\clsString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  oop_stringLibraryProject.vcxproj -> C:\Users\olaal\Desktop\oop1\oop_stringLibraryProject\x64\Debug\oop_stringLibraryProject.exe
